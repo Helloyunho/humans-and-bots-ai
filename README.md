@@ -3,7 +3,7 @@ This is a Discord bot for the "Humans and Bots" server. The bot is only used as 
 
 ## Setup
 > [!NOTE]
-> This guide assumes you're already in the Huamns and Bots Discord server.
+> This guide assumes you're already in the [Huamns and Bots Discord server](https://discord.gg/B5YJ6c7nGZ).
 1. Clone this repository and navigate to the project directory.
 2. Install uv and run the setup:
 ```bash
